@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0014/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部五
+  hash: sha256:385bc2d94867d1b606f43bb11ebdc68a3a5579aafe48be2b02b9eb652717f689
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0014_WYG_000-1a, image: WYG0735/WYG0735-0945a.png}
+body:
+  text: 銀海精微醫家類提要臣等謹案銀海精微二卷舊本題唐孫思邈撰唐宋藝文志皆不著録思邈本傳亦不言有是書其曰銀海者蓋取目為銀海之義考蘇軾雪詩有凍合玉樓寒起粟光搖銀海炫生花句瀛奎律髓引王安石之說謂道書以肩為玉樓目為銀海銀海為目僅見於此然迄今無人能舉安石所引出何道書者則安石以前絶此說其為宋以後書明矣前有齊一經序稱管河北道時得於同僚李氏亦不著時代年月莫知何許人也其中辨論諸證頗為明晰其法補瀉兼施寒溫互用亦無偏主一格之弊方技之家率多依托但求其術之可用無庸核其書之必真本草稱神農素問言黃帝固不能一一確鑿也此書載療目之方較為可取則亦就書論書而已乾隆四十六年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:dbe7408171110d16c155c81c648197f14013d92fb92c61e7b27ae02fd1dae5ce
+metadata:
+  title: 銀海精微
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:04:20.114323'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3e0014/KR3e0014_000.txt
+hash: sha256:57222acc8f7beadbf091a6f3bb92f475e312171104db8812bb28e2928a1b5e26
